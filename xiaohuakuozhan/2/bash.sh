@@ -1,0 +1,2 @@
+gzip log.log
+gunzip
